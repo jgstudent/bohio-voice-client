@@ -6,7 +6,8 @@ administration and provisioning platform.
 
 ## Current status
 
-**Architecture foundation only — no calling implementation is present.**
+**FreePBX interoperability laboratory — no Bohio calling implementation is
+present.**
 
 This repository intentionally contains no SIP SDK, SIP account, password,
 certificate, push credential, customer data, or executable calling code. A
@@ -42,6 +43,8 @@ SDK before implementation and before every major release.
 - [Version 1 scope](docs/V1_SCOPE.md)
 - [Platform matrix](docs/PLATFORM_MATRIX.md)
 - [Step 1 acceptance](docs/STEP_1_ACCEPTANCE.md)
+- [Step 2 FreePBX interoperability](docs/STEP_2_FREEPBX_INTEROPERABILITY.md)
+- [Interoperability results](docs/INTEROP_RESULTS.md)
 
 ## Development rules
 

@@ -28,3 +28,9 @@ DerivedData/
 # Runtime diagnostics
 *.log
 crash-dumps/
+
+# Private laboratory evidence
+evidence/private/
+captures/
+*.pcap
+*.pcapng

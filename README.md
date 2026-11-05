@@ -6,8 +6,8 @@ administration and provisioning platform.
 
 ## Current status
 
-**FreePBX interoperability laboratory — no Bohio calling implementation is
-present.**
+**FreePBX local-LAN interoperability baseline completed — no Bohio calling
+implementation is present.**
 
 This repository intentionally contains no SIP SDK, SIP account, password,
 certificate, push credential, customer data, or executable calling code. A

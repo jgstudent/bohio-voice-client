@@ -1,0 +1,30 @@
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+
+# Build output
+build/
+dist/
+out/
+bin/
+obj/
+.gradle/
+DerivedData/
+
+# Runtime diagnostics
+*.log
+crash-dumps/

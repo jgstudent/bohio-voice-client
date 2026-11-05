@@ -1,6 +1,6 @@
 # Licensing Decision
 
-Status: **Proprietary application; SDK purchase required before integration**
+Status: **Proprietary application; written vendor terms required before integration**
 
 Last verified: 2026-11-05
 
@@ -46,3 +46,7 @@ terms are unsuitable. No alternative may be selected merely because a public
 repository can be downloaded; its license, maintenance, mobile push support,
 platform integration, security record, and long-term ownership must pass the
 same review.
+
+Step 3 procurement requirements, inquiry drafts, and the sanitized comparison
+are maintained in `STEP_3_SDK_LICENSING.md`, `SDK_VENDOR_INQUIRIES.md`, and
+`SDK_DECISION_MATRIX.md`.

@@ -45,6 +45,9 @@ SDK before implementation and before every major release.
 - [Step 1 acceptance](docs/STEP_1_ACCEPTANCE.md)
 - [Step 2 FreePBX interoperability](docs/STEP_2_FREEPBX_INTEROPERABILITY.md)
 - [Interoperability results](docs/INTEROP_RESULTS.md)
+- [Step 3 SDK licensing](docs/STEP_3_SDK_LICENSING.md)
+- [SDK vendor inquiries](docs/SDK_VENDOR_INQUIRIES.md)
+- [SDK decision matrix](docs/SDK_DECISION_MATRIX.md)
 
 ## Development rules
 

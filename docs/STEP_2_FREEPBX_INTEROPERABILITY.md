@@ -73,14 +73,15 @@ transport, and configured SIP port:
 
 ```powershell
 ./scripts/Test-LabConnectivity.ps1 `
-  -PbxAddress "192.168.40.109" `
+  -PbxAddress "192.0.2.10" `
   -SipPort 5060 `
   -Transport UDP
 ```
 
-The example port is not a claim about the live PBX. Replace it with the value
-read from FreePBX. A UDP reachability check cannot prove that a UDP service is
-open; successful SIP registration is the authoritative application-level test.
+The address is from the RFC 5737 documentation range. The example address and
+port are not claims about the live PBX; replace both with values read from
+FreePBX. A UDP reachability check cannot prove that a UDP service is open;
+successful SIP registration is the authoritative application-level test.
 
 ## Phase C — Configure the official softphone
 
